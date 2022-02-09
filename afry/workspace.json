@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "react-demo": "apps/react-demo",
+    "react-demo-e2e": "apps/react-demo-e2e"
+  }
+}
