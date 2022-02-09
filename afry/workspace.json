@@ -1,7 +1,9 @@
 {
   "version": 2,
   "projects": {
+    "common-ui": "libs/common-ui",
     "react-demo": "apps/react-demo",
-    "react-demo-e2e": "apps/react-demo-e2e"
+    "react-demo-e2e": "apps/react-demo-e2e",
+    "ui-common": "libs/ui-common"
   }
 }
